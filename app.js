@@ -18,6 +18,15 @@ const APPS = [
     icon: { url: 'https://ssl.gstatic.com/docs/presentations/images/favicon-2023q4.ico' },
   },
   {
+    id: 'organizzazione',
+    name: 'Organizzazione',
+    desc: 'Foglio google di organizzazione del lavoro.',
+    url: 'https://docs.google.com/spreadsheets/d/1l_DaQyEN5J8NMLU7A4sCtK3BWfTmu7lTWMB4U-YmcZQ/edit?gid=0#gid=0',
+    cat: 'scuola',
+    tag: { label: 'Scuola', cls: 'tag-amber' },
+    icon: { url: 'https://ssl.gstatic.com/docs/spreadsheets/spreadsheets_2023q4.ico' },
+  },
+  {
     id: 'github',
     name: 'GitHub',
     desc: 'Repository pubblici, contributi open source e progetti personali di Silvio Luca.',
