@@ -42,7 +42,7 @@ const APPS = [
     url: 'https://silvioluca.github.io/Galileo-hub/',
     cat: 'scuola',
     tag: { label: 'Scuola', cls: 'tag-amber' },
-    icon: { url: 'https://cdn-icons-png.flaticon.com/512/7614/7614875.png' },
+    icon: { url: 'https://pixy.org/download/4768426/' },
   },
   {
     id: 'github',
