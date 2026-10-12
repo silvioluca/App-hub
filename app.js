@@ -30,7 +30,7 @@ const APPS = [
     id: 'galileolab',
     name: 'Galileo lab',
     desc: 'Simulazioni di fisica per la scuola',
-    url: 'https://silvioluca.github.io/Galileo-Lab/',
+    url: 'https://silvioluca.github.io/Galileo-lab/',
     cat: 'scuola',
     tag: { label: 'Scuola', cls: 'tag-amber' },
     icon: { url: 'https://cdn-icons-png.flaticon.com/512/7614/7614875.png' },
